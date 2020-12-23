@@ -18,6 +18,8 @@ namespace _3sem4._2laba
             Console.WriteLine("Разность: " + Convert.ToString(A - B));
             Console.WriteLine("Умножение: " + Convert.ToString(A * B));
             Console.WriteLine("Деление: " + Convert.ToString(A / B));
+
+            Console.ReadKey();
         }
     }
 }
