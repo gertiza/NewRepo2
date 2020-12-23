@@ -17,6 +17,7 @@ namespace _3sem4._2laba
             Console.WriteLine("Сумма: " + Convert.ToDouble(A + B));
             Console.WriteLine("Разность: " + Convert.ToString(A - B));
             Console.WriteLine("Умножение: " + Convert.ToString(A * B));
+            Console.WriteLine("Деление: " + Convert.ToString(A / B));
         }
     }
 }
