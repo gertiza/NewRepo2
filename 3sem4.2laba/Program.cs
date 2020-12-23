@@ -10,6 +10,8 @@ namespace _3sem4._2laba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Введите первое число: ");
+            double A = Convert.ToDouble(Console.ReadLine());
         }
     }
 }
