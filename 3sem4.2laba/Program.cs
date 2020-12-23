@@ -10,6 +10,7 @@ namespace _3sem4._2laba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Умножение: " + Convert.ToString(A * B));
         }
     }
 }
