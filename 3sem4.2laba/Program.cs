@@ -12,6 +12,8 @@ namespace _3sem4._2laba
         {
             Console.WriteLine("Введите первое число: ");
             double A = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Введите второе число: ");
+            double B = Convert.ToDouble(Console.ReadLine());
         }
     }
 }
